@@ -159,6 +159,7 @@ Abhishek Kumar Pathak
 - [PRINCE DOSHI]
 -[Mohamed Heggi](https://github.com/mtheggi)
 - [Nicholas Hwang]
+- bellayuewei
 - [Thea SF] (https://github.com/thea-sf)
 - [Leon Albert] (https://github.com/leonn00albert)
 [HMT] (https://github.com/HtetAungThan)
